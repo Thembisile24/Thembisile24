@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello, Welcome?</h1>
 
 ###
 
@@ -7,10 +7,15 @@
 ###
 
 <h2 align="left">About me</h2>
-<p>I am passionate about helping people and organizations get the best out of their technology </p>
+<p>I am an Aspiring IT Professional with a Diploma in Information Technology. My focus is on leveraging foundational systems knowledge and emerging technologies to solve complex operational challenges. </p>
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p ### 🚀 Professional Focus
+
+* **📚 Currently Mastering:** Actively studying for the **CompTIA A+** certification to solidify foundational hardware and operating systems knowledge.
+* **✨ Applying Knowledge:** Recently developed the **IT-Support-Toolkit** script, demonstrating the application of **PowerShell** for real-world automation and efficiency gains.
+* **🎯 Career Trajectory:** Secure an **entry-level Help Desk or Desktop Support role** and begin building competency in **Microsoft 365 administration**.
+* **🎲 Fun fact:** I can troubleshoot a network issue faster than I can decide what to order for lunch.</p>
 
 ###
 
