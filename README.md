@@ -12,7 +12,7 @@
 
 <p ### 🚀 Professional Focus
 
-* **📚 Currently Mastering:** Actively studying for the **CompTIA A+** certification to solidify foundational hardware and operating systems knowledge.
+* **📚 Currently Mastering:** Intensively preparing for the CompTIA A+ certification. My current focus areas are operating system installation, mobile device support, and essential network troubleshooting.
 * **✨ Applying Knowledge:** Recently developed the **IT-Support-Toolkit** script, demonstrating the application of **PowerShell** for real-world automation and efficiency gains.
 * **🎯 Career Trajectory:** Secure an **entry-level Help Desk or Desktop Support role** and begin building competency in **Microsoft 365 administration**.
 * **🎲 Fun fact:** I can troubleshoot a network issue faster than I can decide what to order for lunch.</p>
