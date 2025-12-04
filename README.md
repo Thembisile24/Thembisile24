@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 <p>I am an Aspiring IT Professional with a Diploma in Information Technology. My focus is on leveraging foundational systems knowledge and emerging technologies to solve complex operational challenges. </p>
-###
+
 
 <p ### 🚀 Professional Focus
 
